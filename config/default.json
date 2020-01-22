@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://boilingWater:1q2w3e4r5t@cluster0-wjbct.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "netakoiuzhisekrettak-to"
+}
